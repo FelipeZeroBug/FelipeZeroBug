@@ -10,8 +10,8 @@ Mais recentemente, atuei como QA Júnior na Granatech, garantindo a qualidade de
 🚀 Minha missão é entregar valor por meio da qualidade!
 
 🧰 Principais ferramentas: Jira | Postman | K6 | Cypress | DataDog
-📩 Contato: felipefregeni@hotmail.com
 
+📩 Contato: felipefregeni@hotmail.com
 📱 Celular: (11) 97440-2293
 
 
