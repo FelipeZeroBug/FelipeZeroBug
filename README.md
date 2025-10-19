@@ -1,24 +1,19 @@
-👨‍💻 Felipe Freitas Genitore | QA Júnior
-Bem-vindo(a) ao meu portfólio! Aqui compartilho minha trajetória, projetos e aprendizados como Analista de Qualidade de Software (QA). Tenho 2 anos de experiência atuando em times ágeis, com foco na entrega de software com qualidade, usabilidade e performance.
+👋 Olá, eu sou o Felipe Freitas Genitore
 
-🚀 Sobre mim
-🎓 Estudante de Ciência da Computação - Universidade Anhembi Morumbi (Conclusão em 2025)
-🧪 Analista de QA com experiência em testes manuais, automatizados e de performance
-💡 Forte atuação em ambientes ágeis (Scrum e Kanban), com foco na melhoria contínua
-🌐 Experiência em sistemas web, mobile, e-commerce, Telecom e Financeiro
+🎯 Analista de Testes / QA com mais de 2 anos de experiência em Garantia da Qualidade de Software e estudante de Ciência da Computação.
 
-🧰 Tecnologias e Ferramentas
-Testes de API: Postman
-Testes de Performance: K6
-Testes Automatizados: Cypress e DataDog
-Gestão de Tarefas: Jira
-Versionamento: Git & GitHub
-Metodologias Ágeis: Scrum e Kanban
-📫 Contato
-📧 E-mail: felipefregeni@hotmail.com
-💼 LinkedIn
-📱 WhatsApp: (11) 97440-2293
-🧪 Sempre em busca de qualidade!
+💻 Atuo com testes manuais, testes de API (Postman), testes de performance (K6) e automação de testes (Cypress).
+🚀 Experiência com metodologias ágeis (Scrum e Kanban) e foco em experiência do usuário (UX), garantindo entregas com qualidade e valor real para o produto.
 
+🧰 Principais ferramentas
 
+🪶 Jira – Gestão de tarefas e bugs
 
+🔗 Postman – Testes e validações de API
+
+⚡ K6 – Testes de performance
+
+🌐 Cypress – Automação de testes (browser e API)
+
+💡 Gosto de aprender continuamente, buscar novas práticas de QA e garantir que cada entrega seja sinônimo de qualidade.
+📩 felipefregeni@hotmail.com
