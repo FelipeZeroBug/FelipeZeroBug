@@ -1,23 +1,18 @@
-# 👋 Olá, eu sou o Felipe Freitas Genitore
+🎯 Analista de Testes / QA com mais de 2 anos de experiência em Garantia da Qualidade de Software e estudante de Ciência da Computação.
 
-🎓 Estudante de Ciência da Computação pela UAM e Analista de Teste / QA – apaixonado por tecnologia, qualidade de software e criação de experiências digitais sóbrias e eficazes.
+Tenho experiência com testes manuais (funcionais, integração, regressão e exploratórios), testes de API usando Postman, testes de performance com K6 e automação de testes (browser e API).
+Também atuo em ambientes ágeis com Scrum e Kanban, colaborando de forma próxima com o time de desenvolvimento para garantir entregas de qualidade e foco na experiência do usuário (UX).
 
-## 🔍 Sobre mim
-- Atuo no mercado de tecnologia com foco em **garantia de qualidade**, testes automatizados e garantia de usabilidade.
-- Busco inovação e excelência, com interesse especial por práticas de **QA**.
-- Tenho facilidade para aprendizado rápido, trabalho em equipe e adaptação a novas tecnologias.
+Já participei de projetos para empresas como Claro e Stoom, ajudando a melhorar a usabilidade e a confiabilidade de plataformas de e-commerce e soluções digitais.
+Mais recentemente, atuei como QA Júnior na Granatech, garantindo a qualidade de produtos financeiros e digitais em ambiente ágil.
 
-_Veja mais projetos no meu perfil → abaixo._
+💡 Gosto de buscar sempre novas formas de testar melhor, aplicar boas práticas e prevenir falhas antes que elas cheguem ao usuário.
+🚀 Minha missão é entregar valor por meio da qualidade!
 
-## 🔗 Vamos nos conectar?
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [Felipe Freitas Genitore](https://www.linkedin.com/in/felipe-freitas-genitore/) |
-| 🐙 GitHub | [github.com/DevFelipeFG](https://github.com/DevFelipeFG) |
+🧰 Principais ferramentas: Jira | Postman | K6 | Cypress | DataDog
+📩 Contato: felipefregeni@hotmail.com
 
-
-
-✨ **Estou sempre aberto(a) a novos desafios e colaborações. Vamos conversar!**
+📱 Celular: (11) 97440-2293
 
 
 
