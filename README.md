@@ -1,3 +1,11 @@
+✨ Bem-vindo(a) ao meu GitHub!
+
+Aqui você vai encontrar projetos e estudos voltados para QAs iniciantes, com foco em testes manuais, automação, performance e boas práticas de qualidade de software.
+Compartilho também documentações, exemplos reais e ferramentas que uso no dia a dia como Analista de Qualidade, para ajudar quem está começando na área a evoluir com base prática e sólida.
+
+🧩 Explore os repositórios, aprenda com os códigos e sinta-se à vontade para contribuir!
+💬 Se você é iniciante em QA, este espaço foi feito pra você.
+
 # 👋 Olá, eu sou o Felipe Freitas
 
 💻 **Analista de Qualidade de Software** com mais de **2 anos de experiência** garantindo entregas estáveis, performáticas e confiáveis.  
