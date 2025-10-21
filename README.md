@@ -1,10 +1,8 @@
-🎯 Analista de Testes / QA com mais de 2 anos de experiência em Garantia da Qualidade de Software.
+Analista de Qualidade de Software com mais de 2 anos de experiência garantindo entregas estáveis, performáticas e confiáveis. Atuei em projetos web e mobile, onde reduzi falhas em produção, melhorei a eficiência dos testes e aumentei a qualidade das entregas.
 
 
-Experiência em testes manuais (funcionais, integração, regressão e exploratórios), testes de API (Postman), testes de performance (K6) e automação de testes (browser e API). Atuei em projetos estratégicos, contribuindo para a melhoria da usabilidade de interfaces digitais e para a qualidade de sistemas voltados ao e-commerce e soluções financeiras digitais. Realizo planejamento e documentação de testes, assegurando rastreabilidade e clareza nos resultados para apoiar decisões e garantir entregas de valor.
+Tenho experiência com testes manuais (funcionais, integração, regressão e exploratórios), testes automatizados com Cypress e Datadog, validações de API com Postman e monitoramento de performance com K6. Atuo em ambientes ágeis utilizando Scrum e Kanban, colaborando com times multidisciplinares para entregas contínuas e de alto impacto. Também contribuo com documentações claras e rastreáveis, além do acompanhamento de bugs e priorizações no Jira.
 
-💡 Busco constante evolução profissional, aplicando boas práticas de QA e soluções que promovam eficiência e prevenção de falhas.
-🚀 Minha missão é entregar valor por meio da qualidade.
+Sou movido por qualidade, atenção aos detalhes e melhoria contínua. Busco sempre antecipar problemas, garantir a melhor experiência ao usuário e gerar valor real para o negócio.
 
-📩 felipefregeni@hotmail.com
- | 📱 (11) 97440-2293
+📩 felipefregeni@hotmail.com | 📱 (11) 97440-2293
