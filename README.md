@@ -11,7 +11,7 @@ Atuo em projetos **Web e Mobile**, reduzindo falhas em produção, otimizando ci
 - Desenvolvo e mantenho **testes automatizados** com **Cypress** e **Datadog**  
 - Realizo **validações de API** com **Postman**  
 - Monitoro **performance e carga** com **K6**  
-- Elaboro **documentações claras e rastreáveis** para QA  
+- Elaboro **documentações claras e rastreáveis**   
 - Gerencio e **priorizo bugs e histórias** no **Jira**
 
 ---
