@@ -1,8 +1,48 @@
-Analista de Qualidade de Software com mais de 2 anos de experiência garantindo entregas estáveis, performáticas e confiáveis. Atuei em projetos web e mobile, onde reduzi falhas em produção, melhorei a eficiência dos testes e aumentei a qualidade das entregas.
+# 👋 Olá, eu sou o Felipe Freitas
 
+💻 **Analista de Qualidade de Software** com mais de **2 anos de experiência** garantindo entregas estáveis, performáticas e confiáveis.  
+Atuo em projetos **Web e Mobile**, reduzindo falhas em produção, otimizando ciclos de testes e elevando o nível de qualidade das entregas.
 
-Tenho experiência com testes manuais (funcionais, integração, regressão e exploratórios), testes automatizados com Cypress e Datadog, validações de API com Postman e monitoramento de performance com K6. Atuo em ambientes ágeis utilizando Scrum e Kanban, colaborando com times multidisciplinares para entregas contínuas e de alto impacto. Também contribuo com documentações claras e rastreáveis, além do acompanhamento de bugs e priorizações no Jira.
+---
 
-Sou movido por qualidade, atenção aos detalhes e melhoria contínua. Busco sempre antecipar problemas, garantir a melhor experiência ao usuário e gerar valor real para o negócio.
+## 🧪 O que eu faço
 
-📩 felipefregeni@hotmail.com | 📱 (11) 97440-2293
+- Executo **testes manuais** (funcionais, integração, regressão e exploratórios)  
+- Desenvolvo e mantenho **testes automatizados** com **Cypress** e **Datadog**  
+- Realizo **validações de API** com **Postman**  
+- Monitoro **performance e carga** com **K6**  
+- Elaboro **documentações claras e rastreáveis** para QA  
+- Gerencio e **priorizo bugs e histórias** no **Jira**
+
+---
+
+## ⚙️ Metodologias e práticas
+- **Scrum** e **Kanban**
+- **Integração Contínua (CI/CD)**
+- **Melhoria Contínua** e **Feedback Loops**
+- Foco em **experiência do usuário** e **valor de negócio**
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+| Testes | Automação | Performance | Gestão |
+|--------|------------|--------------|---------|
+| Cypress | Datadog | K6 | Jira |
+| Postman | JavaScript | Git/GitHub | Confluence |
+
+---
+
+## 🚀 Sobre mim
+Sou movido por **qualidade, atenção aos detalhes** e **melhoria contínua**.  
+Busco sempre **antecipar problemas**, **garantir a melhor experiência ao usuário** e **gerar valor real para o negócio**.
+
+---
+
+📫 **Contato:**  
+✉️ [felipefregeni@hotmail.com](mailto:felipefregeni@hotmail.com)  
+📱 (11) 97440-2293  
+🌐 [linkedin.com/in/felipefreitasQA](https://linkedin.com/in/) _(adicione seu link aqui)_
+
+---
+⭐ _“Testar não é achar erro — é garantir valor.”_
+
