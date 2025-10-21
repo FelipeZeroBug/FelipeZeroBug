@@ -36,7 +36,7 @@ Busco sempre **antecipar problemas**, **garantir a melhor experiência ao usuár
 📫 **Contato:**  
 ✉️ [felipefregeni@hotmail.com](mailto:felipefregeni@hotmail.com)  
 📱 (11) 97440-2293  
-🌐 [linkedin.com/in/felipefreitasQA]([https://linkedin.com/in/](https://www.linkedin.com/in/felipefreitasgenitore/)) 
+🌐 🌐 [linkedin.com/in/felipefreitasQA](https://linkedin.com/in/) _(https://www.linkedin.com/in/felipefreitasgenitore/)_
 
 ---
 
