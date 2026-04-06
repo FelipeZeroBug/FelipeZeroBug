@@ -15,7 +15,8 @@ Atuo em projetos **Web e Mobile**, reduzindo falhas em produção, otimizando ci
 
 ## 🧪 O que eu faço
 
-- Executo **testes manuais** (funcionais, integração, regressão e exploratórios)  
+- Executo **testes manuais** (funcionais, integração, regressão e exploratórios)
+- Realizo validações de **layout com base no Figma,** garantindo aderência ao design proposto.
 - Desenvolvo e mantenho **testes automatizados** com **Cypress** e **Datadog**  
 - Realizo **validações de API** com **Postman**  
 - Monitoro **performance e carga** com **K6**  
