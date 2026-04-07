@@ -119,9 +119,3 @@ flowchart LR
 [![Gmail](https://img.shields.io/badge/Me_manda_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipefregeni@hotmail.com)
 
 </div>
-
----
-
-<div align="center">
-  <sub>⭐ Se algum repositório te ajudou, deixa uma estrela — isso faz diferença!</sub>
-</div>
