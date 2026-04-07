@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-🚀 Projetos reais | 🧪 Qualidade na prática | 📚 Conteúdo para iniciantes
-</p>
-
----
-
 ## 👋 Olá, eu sou o Felipe Freitas
 
 💻 **Analista de Qualidade de Software**  
