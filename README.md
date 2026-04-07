@@ -109,27 +109,6 @@ flowchart LR
     A --> D[Confiabilidade]
     A --> E[Valor de Negócio]
 ```
-
----
-
-## 🧩 O que você vai encontrar aqui
-
-| | Conteúdo |
-|---|---|
-| 📚 | Conteúdos para QAs iniciantes |
-| 🧪 | Testes na prática |
-| 🤖 | Automação real |
-| ⚡ | Boas práticas de qualidade |
-| 🔍 | Insights do dia a dia |
-
----
-
-## 🤝 Bora evoluir juntos?
-
-> 🚀 **Explore os repositórios** — cada um tem exemplos reais e documentados  
-> 🧩 **Contribua com melhorias** — PRs e sugestões são sempre bem-vindos  
-> 💬 **Se você é iniciante, esse espaço é pra você** — feito com base prática e sólida  
-
 ---
 
 ## 📫 Contato
