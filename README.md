@@ -9,7 +9,7 @@
 ## 👋 Olá, eu sou o Felipe Freitas
 
 💻 **Analista de Qualidade de Software**  
-📈 +2 anos garantindo entregas **estáveis, performáticas e confiáveis**
+📈 3 anos garantindo entregas **estáveis, performáticas e confiáveis**
 
 ---
 
