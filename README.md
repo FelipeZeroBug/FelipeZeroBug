@@ -38,7 +38,7 @@
 
 <tr>
 <td>🤖 <strong>Automação</strong></td>
-<td>Cypress + monitoramento com Datadog</td>
+<td>Cypress/Playwright + monitoramento com Datadog</td>
 </tr>
 
 <tr>
